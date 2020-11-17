@@ -1,6 +1,6 @@
 html {
   background-color: #e4e9fd;
-  background-image: -webkit-linear-gradient(65deg, #a683e3 50%, #e4e9fd 50%);
+  background-image: -webkit-linear-gradient(65deg, #3d7b97 50%, #c4ecff 50%);
   min-height: 1000px;
   font-family: "helvetica neue";
 }
@@ -19,7 +19,7 @@ h1 {
 }
 
 #heading {
-  background-color: #a683e3;
+  background-color: #3d7b97;
   text-align: center;
 }
 
@@ -62,7 +62,7 @@ button {
   width: 50px;
   border-radius: 50%;
   border-color: transparent;
-  background-color: #a683e3;
+  background-color: #3d7b97;
   color: #fff;
   font-size: 30px;
   padding-bottom: 6px;
